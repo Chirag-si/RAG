@@ -42,7 +42,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass("Enter your Hugging Face API to
 
 Run the main script:
 ```python
-python main.py
+python rag.py
 ```
 
 The script will:
